@@ -65,4 +65,5 @@ python bot.py
 Thank you for visiting this repository, don't forget to contribute in the form of follows and stars.
 If you have questions, find an issue, or have suggestions for improvement, feel free to contact me or open an *issue* in this GitHub repository.
 
-**TELEGRAM CHANNEL** > _https://t.me/AllAirdropScript_
+**TELEGRAM CHANNEL:-**
+_https://t.me/AllAirdropScript_
