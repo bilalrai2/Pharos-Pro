@@ -23,10 +23,10 @@ Pharos Testnet BOT
 
 1. **Clone The Repositories:**
    ```bash
-   git clone https://github.com/vonssy/PharosTestnet-BOT.git
+   git clone https://github.com/bilalrai2/Pharos-Pro.git
    ```
    ```bash
-   cd PharosTestnet-BOT
+   cd Pharos-Pro
    ```
 
 2. **Install Requirements:**
